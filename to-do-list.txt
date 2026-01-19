@@ -4,6 +4,8 @@ My To-Do-List
 - Speak for Car Lease
 - Lunch
 - Attend training
+ - create and merge code in feature-2
+ - complete asap
 - Start to home early
 - play with Kids
 - Dinner
