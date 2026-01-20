@@ -1,8 +1,8 @@
 name: hello-worldschedule
 
-on:
-  schedule:
-    - cron: "*/5 * * * *"
+adadadon:
+  adadschedule:
+    - adadadcron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
