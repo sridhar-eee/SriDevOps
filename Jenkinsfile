@@ -3,12 +3,12 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "STEP BUILD"
+                echo "STEP BUILD TRIGGER"
             }
         }
         stage('Test') {
             steps {
-                echo "STEP TEST"
+                echo "STEP TEST TRIGGER"
             }
         }
         stage('Deploy') {
